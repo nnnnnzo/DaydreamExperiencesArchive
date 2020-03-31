@@ -2,8 +2,8 @@
 By the death of the Google virtual reality platform called Daydream, a bunch of great Games/Experiments that were downloadable from the Google Play store just disappear from it, leaving customer with an empty virtual reality catalog. This Repo is here to Archive those Games that we lost the ability to play / enjoy !
 
 If you want to discuss about this Repo / Daydream join us on the r/daydream subreddit !
-To get to the download link just click on the blue title, every file is hosted on github as "release"
-### The goal of this is not only to get cracked apps, It's to have a place where we can put games/apps that are not on the play store anymore (like 50% of good daydream games)
+## To get to the download link just click on the blue title, every file is hosted on github as "release"
+## The goal of this is not only to get cracked apps, It's to have a place where we can put games/apps that are not on the play store anymore (like 50% of good daydream games)
 
 made with ❤️
 
