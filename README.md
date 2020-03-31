@@ -3,7 +3,7 @@ By the death of the Google virtual reality platform called Daydream, a bunch of 
 
 If you want to discuss about this Repo / Daydream join us on the r/daydream subreddit !
 To get to the download link just click on the blue title, every file is hosted on github as "release"
-### The goal of this is not to get cracked apps, It's to have a place where we can put games/apps that are not on the play store anymore (like 50% of good daydream games)
+### The goal of this is not only to get cracked apps, It's to have a place where we can put games/apps that are not on the play store anymore (like 50% of good daydream games)
 
 made with ❤️
 
