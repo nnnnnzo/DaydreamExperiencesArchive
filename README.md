@@ -8,7 +8,7 @@ If you want to discuss about this Repo / Daydream join us on the r/daydream subr
 made with ❤️
 
 ## Games/Experiments available:
-### [Blade Runner: Revelations](#)
+### [Blade Runner: Revelations (currently uploading)](#)
 Blade Runner: Revelations is a 2018 VR game developed by Seismic Games and published by Alcon Entertainment for the Google Daydream.
 The game takes place in 2023 Los Angeles and follows the player character, Blade Runner Harper, in an investigation into the human-replicant conflict.
 ### [![Blade Runner: Revelations Trailer Video](https://img.youtube.com/vi/tqnSBgSSr7A/0.jpg)](https://www.youtube.com/watch?v=tqnSBgSSr7A)
