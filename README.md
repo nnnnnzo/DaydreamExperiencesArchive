@@ -11,6 +11,7 @@ made with 💙
 ### [Blade Runner: Revelations](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.2.1295)
 Blade Runner: Revelations is a 2018 VR game developed by Seismic Games and published by Alcon Entertainment for the Google Daydream.
 The game takes place in 2023 Los Angeles and follows the player character, Blade Runner Harper, in an investigation into the human-replicant conflict.
+### [![Blade Runner: Revelations download Button](https://img.shields.io/badge/Blade%20Runner%3A%20Revelations-Download-brightgreen)](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.2.1295)
 ### [![Blade Runner: Revelations Trailer Video](https://img.youtube.com/vi/tqnSBgSSr7A/0.jpg)](https://www.youtube.com/watch?v=tqnSBgSSr7A)
 
 ### [Fantastic Beasts](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.0)
