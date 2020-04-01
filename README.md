@@ -6,7 +6,7 @@ If you want to discuss about this Repo / Daydream join us on the r/daydream subr
 
 made with 💙
 
-for copyright problems, just send me an email : dea.request@gmail.com
+### for copyright problems, just send me an email : dea.request@gmail.com
 
 ## Games / Experiments available:
 ### [Blade Runner: Revelations](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.2.1295)
