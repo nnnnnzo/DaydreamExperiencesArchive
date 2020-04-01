@@ -1,5 +1,5 @@
 # DaydreamExperiencesArchive
-By the death of the Google virtual reality platform called Daydream, a bunch of great Games/Experiments that were downloadable from the Google Play store just disappear from it, leaving customer with an empty virtual reality catalog. This Repo is here to Archive those Games that we lost the ability to play / enjoy !
+By the death of the Google virtual reality platform called Daydream, a bunch of great Games / Experiments that were downloadable from the Google Play store just disappear from it, leaving customer with an empty virtual reality catalog. This Repo is here to Archive those Games that we lost the ability to play / enjoy !
 
 If you want to discuss about this Repo / Daydream join us on the r/daydream subreddit !
 ### To get to the download link just click on the green download badge, every file is hosted on github as "release"
@@ -7,7 +7,7 @@ If you want to discuss about this Repo / Daydream join us on the r/daydream subr
 
 made with 💙
 
-## Games/Experiments available:
+## Games / Experiments available:
 ### [Blade Runner: Revelations](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.2.1295)
 Blade Runner: Revelations is a 2018 VR game developed by Seismic Games and published by Alcon Entertainment for the Google Daydream.
 The game takes place in 2023 Los Angeles and follows the player character, Blade Runner Harper, in an investigation into the human-replicant conflict.
