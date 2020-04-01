@@ -15,7 +15,7 @@ The game takes place in 2023 Los Angeles and follows the player character, Blade
 
 ### [Fantastic Beasts](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.0)
 Delve into Newt Scamander’s magical world through an immersive virtual reality experience. Inspired by the narrative of J.K. Rowling’s latest tale, Framestore VR Studio scripted the Fantastic Beasts experience for the new Google Daydream to make the user truly feel like the protagonist: a wizard with a wand in their hand, able to cast spells and control their environment, whilst tending to their Graphorn, Erumpent and Thunderbird beasts.
-### [![Fantastic Beasts download button](https://img.shields.io/badge/Fantastic%20Beasts-Download-brightgreen)](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.0)[![Fantastic Beasts Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=888J6oj4u_U)
+### [![Fantastic Beasts download button](https://img.shields.io/badge/Fantastic%20Beasts-Download-brightgreen)](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.0) [![Fantastic Beasts Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=888J6oj4u_U)
 
 ### [Wands](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.3.3.2)
 WANDS® is a first person VR experience that offers fast paced magic duels against other players online. Equip your wand with a wide variety of spells and battle other Wielders for fame, power and glory in the fantastic realms of The Beyond. Explore new spells and hone your skills in your secret workshop in between battles.
