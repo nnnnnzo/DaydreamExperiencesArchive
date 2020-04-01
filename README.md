@@ -11,8 +11,7 @@ made with 💙
 ### [Blade Runner: Revelations](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.2.1295)
 Blade Runner: Revelations is a 2018 VR game developed by Seismic Games and published by Alcon Entertainment for the Google Daydream.
 The game takes place in 2023 Los Angeles and follows the player character, Blade Runner Harper, in an investigation into the human-replicant conflict.
-### [![Blade Runner: Revelations download Button](https://img.shields.io/badge/Blade%20Runner%3A%20Revelations-Download-brightgreen)](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.2.1295)
-### [![Blade Runner: Revelations Trailer Video](https://img.youtube.com/vi/tqnSBgSSr7A/0.jpg)](https://www.youtube.com/watch?v=tqnSBgSSr7A)
+### [![Blade Runner: Revelations download Button](https://img.shields.io/badge/Blade%20Runner%3A%20Revelations-Download-brightgreen)](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.2.1295) [![Blade Runner: Revelations Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=tqnSBgSSr7A)
 
 ### [Fantastic Beasts](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.0)
 Delve into Newt Scamander’s magical world through an immersive virtual reality experience. Inspired by the narrative of J.K. Rowling’s latest tale, Framestore VR Studio scripted the Fantastic Beasts experience for the new Google Daydream to make the user truly feel like the protagonist: a wizard with a wand in their hand, able to cast spells and control their environment, whilst tending to their Graphorn, Erumpent and Thunderbird beasts.
