@@ -19,9 +19,9 @@ Delve into Newt Scamander’s magical world through an immersive virtual reality
 
 ### [Wands](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.3.3.2)
 WANDS® is a first person VR experience that offers fast paced magic duels against other players online. Equip your wand with a wide variety of spells and battle other Wielders for fame, power and glory in the fantastic realms of The Beyond. Explore new spells and hone your skills in your secret workshop in between battles.
-### [![Wands Trailer Video](https://img.youtube.com/vi/ATRv_Ewj-SA/0.jpg)](https://www.youtube.com/watch?v=ATRv_Ewj-SA)
+### [![Wands download button](https://img.shields.io/badge/Wands-Download-brightgreen)](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.3.3.2) [![Wands Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-orange)](https://www.youtube.com/watch?v=ATRv_Ewj-SA)
 
 ### [Untethered](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.0.1rc3)
 Unravel the mystery of Untethered, a Daydream exclusive and also quirky episodic VR series mixing comics and radio drama, into a videogame you can talk to. Using your own voice to talk to characters, and also your trusty laser pointer arm to interact with the world.
-### [![Untethred VR Trailer Video](https://img.youtube.com/vi/y0ruRe5EIY8/0.jpg)](https://www.youtube.com/watch?v=y0ruRe5EIY8)
+### [![Untethred VR download button](https://img.shields.io/badge/Untethered-Download-brightgreen)](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.0.1rc3) [![Untethred VR Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-yellow)](https://www.youtube.com/watch?v=y0ruRe5EIY8)
 
