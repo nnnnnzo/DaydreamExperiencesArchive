@@ -29,3 +29,7 @@ Unravel the mystery of Untethered, a Daydream exclusive and also quirky episodic
 ### [Claro (from u/bluestemz)](http://www.mediafire.com/folder/5gayq4ncnu6sn/Claro)
 Play through beautiful, zen-like miniature worlds where you manipulate the sun to grow a tree in each of the 38 puzzles – it’s a perfect Daydream VR game for everyone.
 ### [![Claro download button](https://img.shields.io/badge/Claro-Downloas-brightgreen)](http://www.mediafire.com/folder/5gayq4ncnu6sn/Claro) [![Claro Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=eevVeyVmyUI)
+
+### [Disorted (from u/bluestemz)](http://www.mediafire.com/folder/75pq9em5vy2h1/Distorted)
+Welcome to our wicked reality of the 19th century's British Victorian era where danger can creep upon you anytime. You play as Henry who must explore the unfamiliar surroundings and escape. He got lost and doesn’t remember what exactly happened, but it soon becomes clear that this is not his biggest problem. 
+### [![Disorted download button](https://img.shields.io/badge/Disorted-Download-brightgreen)](http://www.mediafire.com/folder/75pq9em5vy2h1/Distorted) [![Disorted Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-red)](https://www.youtube.com/watch?v=Q62ljdo58zA)
