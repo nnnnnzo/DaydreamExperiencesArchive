@@ -26,3 +26,6 @@ WANDS® is a first person VR experience that offers fast paced magic duels again
 Unravel the mystery of Untethered, a Daydream exclusive and also quirky episodic VR series mixing comics and radio drama, into a videogame you can talk to. Using your own voice to talk to characters, and also your trusty laser pointer arm to interact with the world.
 ### [![Untethred VR download button](https://img.shields.io/badge/Untethered-Download-brightgreen)](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.0.1rc3) [![Untethred VR Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-yellow)](https://www.youtube.com/watch?v=y0ruRe5EIY8)
 
+### [Claro (from u/bluestemz)](http://www.mediafire.com/folder/5gayq4ncnu6sn/Claro)
+Play through beautiful, zen-like miniature worlds where you manipulate the sun to grow a tree in each of the 38 puzzles – it’s a perfect Daydream VR game for everyone.
+### [![Claro download button](https://img.shields.io/badge/Claro-Downloas-brightgreen)](http://www.mediafire.com/folder/5gayq4ncnu6sn/Claro) [![Claro Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=eevVeyVmyUI)
