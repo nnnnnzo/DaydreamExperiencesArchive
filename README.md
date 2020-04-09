@@ -33,3 +33,7 @@ Play through beautiful, zen-like miniature worlds where you manipulate the sun t
 ### [Disorted (from u/bluestemz)](http://www.mediafire.com/folder/75pq9em5vy2h1/Distorted)
 Welcome to our wicked reality of the 19th century's British Victorian era where danger can creep upon you anytime. You play as Henry who must explore the unfamiliar surroundings and escape. He got lost and doesn’t remember what exactly happened, but it soon becomes clear that this is not his biggest problem. 
 ### [![Disorted download button](https://img.shields.io/badge/Disorted-Download-brightgreen)](http://www.mediafire.com/folder/75pq9em5vy2h1/Distorted) [![Disorted Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-red)](https://www.youtube.com/watch?v=Q62ljdo58zA)
+
+### [So Let Us Melt (from u/bluestemz)](http://www.mediafire.com/folder/75pq9em5vy2h1/Distorted)
+Welcome to our wicked reality of the 19th century's British Victorian era where danger can creep upon you anytime. You play as Henry who must explore the unfamiliar surroundings and escape. He got lost and doesn’t remember what exactly happened, but it soon becomes clear that this is not his biggest problem. 
+### [![SLUM download button](https://img.shields.io/badge/So%20Let%20Us%20Melt-Download-brightgreen)](https://www.mediafire.com/folder/4zsahtwikbp3o/Daydream_Repository#7fbgxai1rgje2) [![SLUM Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=OiXYJVG2p5I)
