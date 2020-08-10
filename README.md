@@ -7,8 +7,7 @@ If you want to discuss about this Repo / Daydream join us on the r/daydream subr
 made with 💙
 
 ### for copyright problems, just send me an email : dea.request@gmail.com
-I am only in charge of this repo. Any game outside of this repo or from a fork of it is not verified or from me is not my responsablity 
-#### (as well as legal problems due to copyright).
+I am only in charge of this repo. Any game outside of this repo or from a fork of it is not verified or from me (not my responsablity, as well as legal problems due to copyright).
 
 ## Games / Experiments available:
 ### [Blade Runner: Revelations](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.2.1295)
