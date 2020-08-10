@@ -11,7 +11,7 @@ made with 💙
 ## Games / Experiments available:
 ### [Need for Speed: No Limits VR](https://github.com/Nargajuna/DaydreamExperiencesArchive/releases/tag/v1.0.2)
 The world’s most iconic street racing brand now brings immersive VR technology behind the wheel of the Google Daydream. Feel the ultimate thrill when you’re strapped into the driver’s seat, exploring a dynamic environment and launching yourself into an unparalleled, visceral ride. Choose your car, choose your track, and enter a new realm of white-knuckle racing reality. Win races, up your rep, and own the streets in a whole new way. Experience the innovative intensity that is Need for Speed No Limits VR.
-### [![Need for Speed download Button](https://img.shields.io/badge/Need%20for%20Speed:%20%3ANLVR-Download-brightgreen)](https://github.com/Nargajuna/DaydreamExperiencesArchive/releases/tag/v1.0.2) [![Need for Speed Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-red)](https://www.youtube.com/watch?v=mya7GJC5J9o)
+### [![Need for Speed download Button](https://img.shields.io/badge/Need%20for%20Speed%20%3ANo%20Limits%20VR-Download-brightgreen)](https://github.com/Nargajuna/DaydreamExperiencesArchive/releases/tag/v1.0.2) [![Need for Speed Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-red)](https://www.youtube.com/watch?v=mya7GJC5J9o)
 
 ### [Blade Runner: Revelations](https://github.com/nnnzo/DaydreamExperiencesArchive/releases/tag/v1.2.1295)
 Blade Runner: Revelations is a 2018 VR game developed by Seismic Games and published by Alcon Entertainment for the Google Daydream.
