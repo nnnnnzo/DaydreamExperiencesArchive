@@ -2,11 +2,9 @@
 By the death of the Google virtual reality platform called Daydream, a bunch of great Games / Experiments that were downloadable from the Google Play store just disappear from it, leaving customer with an empty virtual reality catalog. This Repo is here to Archive those Games that we lost the ability to play / enjoy !
 
 If you want to discuss about this Repo / Daydream join us on the r/daydream subreddit !
-### The goal of this is not to get cracked apps, It's to have a place where we can put games/apps that are not on the play store anymore (like 50% of good daydream games)
 
-made with 💙
-
-### for copyright problems, just send me an email : dea.request@gmail.com
+### The goal of this is not to get cracked apps, It's to have a place where we can put games/apps that are not on the play store anymore (called Abandonware)
+### for copyright problems, just send me an email : MMONargajuna@gmail.com
 
 ## Games / Experiments available:
 ### [Need for Speed: No Limits VR](https://github.com/Nargajuna/DaydreamExperiencesArchive/releases/tag/v1.0.2)
