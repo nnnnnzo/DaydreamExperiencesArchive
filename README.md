@@ -11,7 +11,7 @@ If you want to discuss about this Repo / Daydream join us on the r/daydream subr
 ### [King Arthur VR](https://github.com/Nargajuna/DaydreamExperiencesArchive/releases/tag/v1.0.6)
 From nothing comes a king. In this official film VR experience, train as Arthur alongside his gang in order to harness the powers of Excalibur and hold off Vortigern's assault.
 Do you have what it takes to wield Excalibur? Do you have what it takes to become the born king?
-### [![King Arthur VR download Button](https://img.shields.io/badge/King%20Arthur%20VR-Download-brightgreen)](https://github.com/Nargajuna/DaydreamExperiencesArchive/releases/tag/v1.0.6) [![King Arthur VR Gameplay Video button](https://www.youtube.com/watch?v=9ttUaAeUYzI&)
+### [![King Arthur VR download Button](https://img.shields.io/badge/King%20Arthur%20VR-Download-brightgreen)](https://github.com/Nargajuna/DaydreamExperiencesArchive/releases/tag/v1.0.6) [![King Arthur VR Gameplay Video button](https://img.shields.io/badge/-Gameplay%20Video-red)](https://www.youtube.com/watch?v=9ttUaAeUYzI&)
 
 ### [Twilight Pioneers](https://github.com/Nargajuna/DaydreamExperiencesArchive/releases/tag/3.0.8)
 Twilight Pioneers is a first-person ARPG in VR by Netease. In this game, players are thrust into an Eastern-inspired fantasy world - a world they must save as the magic-casting and sword-wielding hero! Developed specifically for Google Daydream, Twilight Pioneers utilizes to the full the Daydream controller and headset, allowing players to navigate the game freely from a first player perspective. Developed on Unity, this game is one of the top recommended mobile VR games only on Daydream.
