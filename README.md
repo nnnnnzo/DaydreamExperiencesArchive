@@ -38,3 +38,9 @@ Welcome to our wicked reality of the 19th century's British Victorian era where 
 ### [So Let Us Melt (from u/bluestemz)](http://www.mediafire.com/folder/7fbgxai1rgje2/So_Let_Us_Melt_v0.6.5)
 Welcome to our wicked reality of the 19th century's British Victorian era where danger can creep upon you anytime. You play as Henry who must explore the unfamiliar surroundings and escape. He got lost and doesn’t remember what exactly happened, but it soon becomes clear that this is not his biggest problem. 
 ### [![SLUM download button](https://img.shields.io/badge/So%20Let%20Us%20Melt-Download-brightgreen)](http://www.mediafire.com/folder/7fbgxai1rgje2/So_Let_Us_Melt_v0.6.5) [![SLUM Trailer Video button](https://img.shields.io/badge/-Trailer%20Video-informational)](https://www.youtube.com/watch?v=OiXYJVG2p5I)
+
+## You didn't find what you were looking for?
+You can search in the different fork of the archive, the "forked" repo are a copy of this one that can be edited by user and have more games.
+(I am only in charge of this repo. Any game outside of this repo or from a fork of it is not verified or from me (not my responsablity, as well as legal problems due to copyright).
+### [![FORK button](https://img.shields.io/badge/-Fork%20List-orange)](https://github.com/nnnzo/DaydreamExperiencesArchive/network/members)
+
